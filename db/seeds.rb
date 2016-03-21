@@ -13,4 +13,4 @@ Product.create(title: 'Programming Ruby',
 			Good text from Denis
 		</p>},
 	image_url: 'ruby.jpg',
-	price: 52.95)
+	price: 53.95)
